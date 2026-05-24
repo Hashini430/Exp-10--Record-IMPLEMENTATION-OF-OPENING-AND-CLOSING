@@ -31,8 +31,7 @@ Use Closing Operation
 ## Program:
 
 ``` Python
-Developed by : DEEPIKA R
-Reg no : 212224100009
+
 
 import cv2
 import numpy as np
